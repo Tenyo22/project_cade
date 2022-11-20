@@ -30,11 +30,7 @@
                 <LinearLayout
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-<<<<<<< HEAD
-                    android:layout_margin="70dp"
-=======
                     android:layout_margin="40p"
->>>>>>> login
                     android:gravity="center_horizontal"
                     android:orientation="vertical">
 
