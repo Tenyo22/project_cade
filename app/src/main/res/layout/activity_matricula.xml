@@ -39,7 +39,7 @@
                         android:layout_height="200dp"
 
                         android:background="@drawable/bg_im"
-                        android:padding="25dp"
+                        android:padding="40dp"
                         android:src="@drawable/ic_success" />
 
                     <TextView
@@ -50,7 +50,7 @@
                         android:padding="5dp"
                         android:text="@string/app_bienvenido"
                         android:textColor="@color/black"
-                        android:textSize="30sp"
+                        android:textSize="40sp"
                         android:textStyle="bold" />
 
                     <TextView
@@ -67,7 +67,7 @@
                         android:layout_height="wrap_content"
                         android:layout_marginBottom="50dp"
                         android:gravity="center"
-                        android:padding="5dp"
+                        android:padding="50dp"
                         android:text="@string/app_matricula"
                         android:textColor="@color/black"
                         android:textSize="30sp"
