@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">cadev1</string>
-    <string name="app_titulo">C.A.D.E</string>
-    <string name="app_iniciosesion">Inicio de sesión</string>
+    <string name="app_titulo">CADE</string>
+    <string name="app_iniciosesion">Iniciar Sesión</string>
     <string name="app_usuario">Usuario</string>
     <string name="app_contrasenia">Contraseña</string>
     <string name="app_iniciar">Iniciar Sesión</string>
